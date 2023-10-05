@@ -47,9 +47,6 @@ If you want to contribute, go ahead, we ❤️ it. We follow a 💯 % first-time
 
 - Add your country flag in readme after accepted PR
 
-# 💬 Community: Discord
-[https://discord.gg/k37Ef6w](https://discord.gg/k37Ef6w)
-
 # 🔧 Install instructions
 
 - download python3.7
